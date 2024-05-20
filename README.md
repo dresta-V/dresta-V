@@ -7,39 +7,23 @@
 </p>
 
 ---
-### I'm Vaibhou Pandey [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+### I'm Vaibhou Pandey [<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="rak3xh" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)
+🎓 &nbsp;M.Sc. CS Grad '23 
 
-
-## 🧰 Tools I've experienced with
-
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()
-[![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white)]()
-[![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white)]()
-[![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)]()
-[![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white)]()
-[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white)]()
-[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&)]()
-[![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white)]()
-[![Databricks Badge](https://img.shields.io/badge/-Databricks-black?style=flat&logo=Databricks&logoColor=white)]()
-[![Metabase Badge](https://img.shields.io/badge/-Metabase-black?style=flat&logo=Metabase&logoColor=white)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white)]()
-[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white)]()
+### Tools 
+[![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
+[![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]()
+[![HTML Badge](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)]()
+[![CSS Badge](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=white)]()
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
+[![PHP Badge](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&logoColor=white)]()
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)]()
+[![VS Code Badge](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=white)]()
 [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white)]()
 [![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white)]()
-[![Apache Spark Badge](https://img.shields.io/badge/-ApacheCassandra-black?style=flat&logo=ApacheCassandra&logoColor=white)]()
-[![Elastic Search Badge](https://img.shields.io/badge/-Elastic-black?style=flat&logo=Elastic&logoColor=white)]()
-[![Amazon AWS Badge](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=AWS&logoColor=white)]()
-[![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white)]()
-[![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white)]()
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white)]()
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
+[![phpMyAdmin Badge](https://img.shields.io/badge/-phpMyAdmin-black?style=flat&logo=phpMyAdmin&logoColor=white)]()
+
 
 <div align="left">
 <p align="left">
