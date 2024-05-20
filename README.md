@@ -7,12 +7,11 @@
 </p>
 
 ---
-🎓 &nsbp; M.Sc. CS Grad'23[<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="dresta-V" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)
-💻 &nsbp; Experienced Full stack Dev.
-🎀 &nsbp; Proficient in C++ and Python
-🧩 &nsbp;  Concepts: OOPS, System Design, SDLC
-📘 &nsbp; Learning: C#, ASP.NET
-
+🎓 M.Sc. CS Grad'23[<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="dresta-V" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)  
+💻 Experienced Full stack Dev.  
+🎀 Proficient in C++ and Python  
+🧩 Concepts: OOPS, System Design, SDLC  
+📘 Learning: C#, ASP.NET
 ### Tools 
 [![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
