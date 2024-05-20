@@ -47,10 +47,12 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
 </details>
 
-<div align="center">
- <p align="center">
-<img align="left" width="50%" src="https://stats.dooboo.io/api/github-stats-advanced?login=dresta-V" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=True" />
-  <img align="right" width="45%" src="https://streak-stats.demolab.com/?user=rak3xh&theme=highcontrast" />
- </p>
+<div align="left">
+<p align="left">
+<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=dresta-V&theme=dark&show_icons=True" />
+<img width="45%" src="https://streak-stats.demolab.com/?user=dresta-V&theme=highcontrast" />
+</p>
+ 
 </div>
+
+---
