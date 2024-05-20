@@ -7,8 +7,11 @@
 </p>
 
 ---
-### I'm Vaibhou Pandey [<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="rak3xh" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)
-🎓 &nbsp;M.Sc. CS Grad '23 
+🎓 M.Sc. CS Grad'23 [<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="dresta-V" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)
+💻 Experienced Full stack Dev.
+🐍 Proficient in C++ and Python
+🧩 Concepts: OOPS, System Design, SDLC
+📘 Learning: C#, ASP.NET 
 
 ### Tools 
 [![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
