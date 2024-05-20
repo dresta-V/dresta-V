@@ -7,7 +7,7 @@
 </p>
 
 ---
-### I'm Vaibhou Pandey aka Dresta👨🏻‍💻 [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
+### I'm Vaibhou Pandey👨🏻‍💻 [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
 <details align="left">
   <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">About Me!</summary>
   
@@ -45,9 +45,12 @@
 [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white)]()
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white)]()
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
-
 </details>
 
-## 🔥 Profile Highlight
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dresta-V)
- 
+<div align="center">
+ <p align="center">
+<img align="left" width="50%" src="https://stats.dooboo.io/api/github-stats-advanced?login=dresta-V" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=True" />
+  <img align="right" width="45%" src="https://streak-stats.demolab.com/?user=rak3xh&theme=highcontrast" />
+ </p>
+</div>
