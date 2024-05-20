@@ -48,25 +48,6 @@
 
 </details>
 
-
-
 ## 🔥 Profile Highlight
-  <div style="width: 38%;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVlZWM1N29xd3JjbHV6ZzE0dnQ3MzBjcDU0YWZuNXI3bWg4a3IwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc1czoNb3uaT1uCI/giphy.gif" alt="GIF">
-  </div>
-  <div style="width: 50%;">
-    <a href="https://github.com/dresta-V">
-      <img src="https://github-readme-stats.vercel.app/api?username=dresta-V&theme=highcontrast&title_color=ff0000" alt="GitHub Stats">
-    </a>
-  </div>
-  <div style="width: 50%;">
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=dresta-V&theme=youtube-dark" alt="GitHub Streak">
-    </a>
-  </div>
-  <div style="width: 50%;">
-    <a href="https://github.com/dresta-V">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dresta-V&layout=compact&langs_count=8&theme=algolia" alt="Top Languages">
-    </a>
-  </div>
-</div>
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dresta-V)
+ 
