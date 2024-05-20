@@ -7,10 +7,9 @@
 </p>
 
 ---
-
-### 👨🏻‍💻 &nbsp;I'm Vaibhou Pandey aka Dresta
+### I'm Vaibhou Pandey aka Dresta👨🏻‍💻 [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
 <details align="left">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">Click to see more Stats!</summary>
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">About Me!</summary>
   
 ## 📌 About me
 
@@ -48,6 +47,9 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
 
 </details>
+
+
+
 ## 🔥 Profile Highlight
   <div style="width: 38%;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVlZWM1N29xd3JjbHV6ZzE0dnQ3MzBjcDU0YWZuNXI3bWg4a3IwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc1czoNb3uaT1uCI/giphy.gif" alt="GIF">
