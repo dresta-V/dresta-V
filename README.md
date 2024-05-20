@@ -7,19 +7,14 @@
 </p>
 
 ---
-### I'm Vaibhou Pandey👨🏻‍💻 [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
-<details align="left">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">About Me!</summary>
-  
-## 📌 About me
-
-| Who I Am | Education | Skills | Special Qualities |
-|----------|-----------|--------|------------------|
-| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science & Engineering | Python, SQL, Tableau, AWS | Data strategist committed to solving complex business issues. |
-
-| Collaboration & Engagement | Data Specialties |
-|----------------------------|-----------------|
-| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Software Engineer | Data Engineering, Predictive Analytics, Data Visualization & Machine Learning |
+### I'm Vaibhou Pandey [<img align="right" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Dribbble&logoColor=white" alt="rak3xh" />](https://twitter.com/rak3xh_)
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🧰 Tools I've experienced with
@@ -45,7 +40,6 @@
 [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white)]()
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white)]()
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
-</details>
 
 <div align="left">
 <p align="left">
