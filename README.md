@@ -13,16 +13,16 @@
 ### Tools 
 [![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
-[![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]()
+[![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)]()
 [![HTML Badge](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)]()
-[![CSS Badge](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=white)]()
+[![CSS Badge](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)]()
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
-[![PHP Badge](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&logoColor=white)]()
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)]()
-[![VS Code Badge](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=white)]()
-[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white)]()
-[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white)]()
-[![phpMyAdmin Badge](https://img.shields.io/badge/-phpMyAdmin-black?style=flat&logo=phpMyAdmin&logoColor=white)]()
+[![PHP Badge](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)]()
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)]()
+[![VS Code Badge](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)]()
+[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)]()
+[![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux)]()
+[![phpMyAdmin Badge](https://img.shields.io/badge/-phpMyAdmin-black?style=flat&logo=phpMyAdmin)]()
 
 
 <div align="left">
