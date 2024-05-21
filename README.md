@@ -12,7 +12,7 @@
 🎀 Proficient in C++ and Python  
 🧩 Concepts: OOPS, System Design, SDLC  
 📘 Learning: C#, ASP.NET
-### Tools 
+### Tech Stack
 [![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
 [![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)]()
