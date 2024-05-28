@@ -16,6 +16,7 @@
 [![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)]()
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
 [![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)]()
+[![GO Badge](https://img.shields.io/badge/-GO-black?style=flat&logo=GO)]()
 [![HTML Badge](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)]()
 [![CSS Badge](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)]()
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
