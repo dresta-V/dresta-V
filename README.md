@@ -6,6 +6,7 @@
 &nbsp; <a href="mailto:dresta.connect@gmail.com" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+
 ---
 🎓 M.Sc. CS Grad'23[<img align="right" src="https://img.shields.io/badge/Download_Resume-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="dresta-V" />](https://drive.google.com/file/d/1UoUAmwatA3BZJmyp4dU2_d-XYTWW0HKM/view?usp=sharing)  
 💻 Full stack Dev.  
